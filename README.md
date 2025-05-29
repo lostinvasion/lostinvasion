@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=7000&pause=1000&color=E000F7&center=true&vCenter=true&width=435&lines=hi%2C+i'm+lostinvasion.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=D6E9F7&center=true&vCenter=true&width=435&lines=hi%2C+i'm+gianluca+%F0%9F%91%8B;welcome+to+my+profile!)](https://git.io/typing-svg)
 
 i dont know what i'm doing most of the time.
 <!--
